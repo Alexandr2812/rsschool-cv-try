@@ -17,7 +17,6 @@
 
 ## Personal qualities and goals
 
-
 | **Motivated, observant, sociable and easy-going, thorough, friendly, polite, hard-working, stress-resistant. Like studying. Like to control working process (time and quality).     My goal is to become a junior software engineer (Front-end/JavaScript)** |
 |:------------|
 
@@ -63,7 +62,7 @@ function multiply(a, b){
 
 ## Foreign languages
 
-|  ***English***  |  **B1**  |
+| ***English*** | **B1** |
 |---|---|
 
 
@@ -71,7 +70,7 @@ function multiply(a, b){
 
 | **LeverX Group course: Intro to IT** |
 |:---|
-| **EPAM courses: Computer Science Basics, Introduction in Testing, Software Development Methodologies, Version Control with Git.**|
+| **EPAM courses: Computer Science Basics, Introduction in Testing, Software Development Methodologies, Version Control with Git.** |
 | **Books: "A Byte of Python", "Learning Python" and "Programming Python" Mark Lutz, "Head First Python Programming", "Head First JavaScript Programming", "Head First HTML and CSS"** |
 | **Challenges**: <https://www.codewars.com/> |
 
