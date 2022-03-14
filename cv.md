@@ -11,13 +11,13 @@
 
 ## Contact information
 
-|***E-mail*** |<alexandr.eremeiko@yandex.by>|
+| ***E-mail*** | <alexandr.eremeiko@yandex.by> |
 |---|:---|
-|***Discord***|AlexandrEremeiko(@alexandr2812)|
+| ***Discord*** | AlexandrEremeiko(@alexandr2812) |
 
 ## Personal qualities and goals
 
-|**Motivated, observant, sociable and easy-going, thorough, friendly, polite, hard-working, stress-resistant. Like studying. Like to control working process (time and quality). My goal is to become a junior software engineer (Front-end/JavaScript)**|
+| **Motivated, observant, sociable and easy-going, thorough, friendly, polite, hard-working, stress-resistant. Like studying. Like to control working process (time and quality). My goal is to become a junior software engineer (Front-end/JavaScript)** |
 |:---|
 
 
@@ -54,11 +54,11 @@ function multiply(a, b){
 
 ## Education
 
-|***Name of educational institution***|**Belarusian State University of Physical Culture**|
+| ***Name of educational institution*** | **Belarusian State University of Physical Culture** |
 |---|---|
-|***Period of study (from/to)***|**2011-2015**|
-|***Faculty***|**Faculty of Tourism and Hospitality**|
-|***Specialty***|**Specialist in tourism and hospitality**|
+| ***Period of study (from/to)*** | **2011-2015** |
+| ***Faculty*** | **Faculty of Tourism and Hospitality** |
+| ***Specialty*** | **Specialist in tourism and hospitality** |
 
 ## Foreign languages
 
