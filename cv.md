@@ -20,6 +20,7 @@
 |**Motivated, observant, sociable and easy-going, thorough, friendly, polite, hard-working, stress-resistant. Like studying. Like to control working process (time and quality). My goal is to become a junior software engineer (Front-end/JavaScript)**|
 |:---|
 
+
 ## Job experience
 
 |***Period***|***Company***|***Job title***|***Job description***|
@@ -58,17 +59,19 @@ function multiply(a, b){
 |***Period of study (from/to)***|**2011-2015**|
 |***Faculty***|**Faculty of Tourism and Hospitality**|
 |***Specialty***|**Specialist in tourism and hospitality**|
+
 ## Foreign languages
-|***English***|**B1**|
+
+| ***English*** | **B1** |
 |---|---|
 
 ## Additional education
 
-|**LeverX Group course: Intro to IT**|
+| **LeverX Group course: Intro to IT** |
 |:---|
-|**EPAM courses: Computer Science Basics, Introduction in Testing, Software Development Methodologies, Version Control with Git.**|
-|**Books: "A Byte of Python", "Learning Python" and "Programming Python" Mark Lutz, "Head First Python Programming", "Head First JavaScript Programming", "Head First HTML and CSS"**|
-|**Challenges**: <https://www.codewars.com/>|
+| **EPAM courses: Computer Science Basics, Introduction in Testing, Software Development Methodologies, Version Control with Git. **|
+| ** Books: "A Byte of Python", "Learning Python" and "Programming Python" Mark Lutz, "Head First Python Programming", "Head First JavaScript Programming", "Head First HTML and CSS"** |
+| **Challenges**: <https://www.codewars.com/> |
 
 ## Links to projects:
 CV project: <https://github.com/Alexandr2812/rsschool-cv.git>
