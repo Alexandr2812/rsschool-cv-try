@@ -1,4 +1,7 @@
 # Curriculum vitae
+
+![My photo](https://avatars.githubusercontent.com/u/62295313?s=400&u=78955cf26e97610251e3a5d85f862c842ed96c78&v=4)
+
 ## Personal details
 |***First and Last name***|	Eremeiko Alexandr|
 |:---|:---|
@@ -29,7 +32,7 @@
 |***Python***|**Beginner**|
 |***Git***|**Beginner**|
 
-## Code example(<https://www.codewars.com/>)
+## Code examples (<https://www.codewars.com/>)
 1. Twice as old
 ```
 function twiceAsOld(dadYearsOld, sonYearsOld) {
