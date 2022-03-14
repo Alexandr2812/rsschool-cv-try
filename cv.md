@@ -17,6 +17,7 @@
 
 ## Personal qualities and goals
 
+
 | **Motivated, observant, sociable and easy-going, thorough, friendly, polite, hard-working, stress-resistant. Like studying. Like to control working process (time and quality). My goal is to become a junior software engineer (Front-end/JavaScript)** |
 |:---|
 
@@ -62,8 +63,10 @@ function multiply(a, b){
 
 ## Foreign languages
 
+
 | ***English*** | **B1** |
 |---|---|
+
 
 ## Additional education
 
