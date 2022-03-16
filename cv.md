@@ -64,7 +64,7 @@ function multiply(a, b){
 ## Foreign languages
 
 | ***English*** | **B1** | 
-|---|---|
+|:---:|:---:|
 | ***German***| **A1** |
 
 
@@ -77,5 +77,5 @@ function multiply(a, b){
 |**Challenges**: <https://www.codewars.com/>|
 
 ## Links to projects:
-CV project: <https://github.com/Alexandr2812/rsschool-cv.git>
+**CV project**: <https://github.com/Alexandr2812/rsschool-cv.git>
   
