@@ -76,6 +76,6 @@ function multiply(a, b){
 |**Books: "A Byte of Python", "Learning Python" and "Programming Python" Mark Lutz, "Head First Python Programming", "Head First JavaScript Programming", "Head First HTML and CSS"**|
 |**Challenges**: <https://www.codewars.com/>|
 
-## Links to projects:
+## Links to projects
 **CV project**: <https://github.com/Alexandr2812/rsschool-cv.git>
   
